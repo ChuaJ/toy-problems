@@ -1,0 +1,22 @@
+{
+  "name": "toy-problems",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuaJ/toy-problems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChuaJ/toy-problems/issues"
+  },
+  "homepage": "https://github.com/ChuaJ/toy-problems#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
