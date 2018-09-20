@@ -1,7 +1,5 @@
 const countSteps = require('./problem');
 
-jest.setTimeout(1);
-
 test('Should exist', () => {
   expect(typeof countSteps).toBe('function');
 });
